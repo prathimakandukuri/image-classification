@@ -1,2 +1,2 @@
 # image-classification
-it consists of image classification based on emotion of person in the image
+to predict the emotion of person in the image
